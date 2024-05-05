@@ -6,4 +6,4 @@
 
 ### links
 
-This site was built using [GitHub Pages]([https://yuuts1.github.io/CrunchyrollLoginForm/]).
+This site was built using [GitHub Pages](https://yuuts1.github.io/CrunchyrollLoginForm/).
